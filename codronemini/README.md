@@ -54,7 +54,7 @@ Drone flight using joystick can be controlled anywhere.
 
 * **Stop**: Press the button on the right side for about 4 seconds to land at the desired target area and slowly descend to land.
 
-> [Download the Drone Control and Quick Manual PDF](https://github.com/EBWon/robolink/blob/master/codronemini/pdf/remotecontroller.pdf)
+> [Download the Drone Control and Quick Manual PDF](https://github.com/EBWon/robolink/raw/master/codronemini/pdf/remotecontroller.pdf)
 
 ## Drone Simulator Virtual Flight
 
@@ -69,7 +69,7 @@ Virtual drone flying with joystick allows you to control and practice drones on 
 
 * **Virtual Flight**: Control the drones on your screen with a wired remote like you would control a real drone.
 
-> [Download Drone Simulator PDF Manual](https://github.com/EBWon/robolink/blob/master/codronemini/pdf/simulator.pdf)
+> [Download Drone Simulator PDF Manual](https://github.com/EBWon/robolink/raw/master/codronemini/pdf/simulator.pdf)
 
 ## Drone simulator monitoring flight
 
@@ -95,4 +95,4 @@ Drag-and-drop block coding programming using the mouse allows you to control a v
 
 * **Connection & Play**: Tap the “Coderon Mini” tab in the block group at the top left and tap Connect to drones directly below to connect ports and move the desired blocks to the central script to control various drones in real time. can.
 
-> [Download the Rocket Brick PDF Manual](https://github.com/EBWon/robolink/blob/master/codronemini/pdf/rokit.pdf)
+> [Download the Rocket Brick PDF Manual](https://github.com/EBWon/robolink/raw/master/codronemini/pdf/rokit.pdf)
