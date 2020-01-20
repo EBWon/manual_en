@@ -96,5 +96,3 @@ Drag-and-drop block coding programming using the mouse allows you to control a v
 * **Connection & Play**: Tap the “Coderon Mini” tab in the block group at the top left and tap Connect to drones directly below to connect ports and move the desired blocks to the central script to control various drones in real time. can.
 
 > [Download the Rocket Brick PDF Manual](https://github.com/EBWon/manual_en/raw/master/codronemini/pdf/rokit.pdf)
-
-{% embed url="https://www.youtube.com/watch?v=jrX0qZkhK8Q&feature=youtu.be" %}
