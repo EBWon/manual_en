@@ -1,26 +1,26 @@
-# CoDroneMini Coderon Mini: Educational Coding Drones
+# CoDroneMini CoDrone Mini: Educational Coding Drones
 
-![Coderon mini](./img/0001.png)
+![CoDrone mini](./img/0001.png)
 
 > Coded mini, a smart coding drone that can learn drones and coding!
 
-It is a high performance drone that can be enjoyed by everyone from 8 years old to professionals. Easily code your ideas into block types, click the keyboard buttons and they'll automatically fly as the drone thinks. Coderon Mini is designed to make drone expert and coding expert easier and safer than the existing Coderon series. Even if you don't have to start coding hard with textbooks or start with expensive drones, you can start coding and drones at once with Coderon Mini!
+It is a high performance drone that can be enjoyed by everyone from 8 years old to professionals. Easily code your ideas into block types, click the keyboard buttons and they'll automatically fly as the drone thinks. CoDrone Mini is designed to make drone expert and coding expert easier and safer than the existing CoDrone series. Even if you don't have to start coding hard with textbooks or start with expensive drones, you can start coding and drones at once with CoDrone Mini!
 
 Coding can be done with a variety of open source software, from scratch-type block-based programs to beginners to Python.
 
 # function
 
-The Coderon Mini has everything the drone should have.
+The CoDrone Mini has everything the drone should have.
 
-![Coderon mini](./img/0002.png)
+![CoDrone mini](./img/0002.png)
 
 Drones and remote controls allow for a variety of controls and maintenance.
 
-![Coderon mini](./img/0003.png)
+![CoDrone mini](./img/0003.png)
   
 
 # Specifications
-![Coderon mini spec](./img/0004.png)
+![CoDrone mini spec](./img/0004.png)
 
 
 ## actual configuration
@@ -28,7 +28,7 @@ Drones and remote controls allow for a variety of controls and maintenance.
 
 # uses
 
-Coderon Mini can be enjoyed in four ways: remote control, virtual control, PC monitoring control and block program.
+CoDrone Mini can be enjoyed in four ways: remote control, virtual control, PC monitoring control and block program.
 
 ## Remote Control
 
@@ -83,16 +83,16 @@ You can monitor the drone's various sensor values ​​and drone status through
 
 * **Play**: You can monitor the status of drones, fly drones with a real keyboard, and even autonomous flight through a sequential flight program tool.
 
-## Rocket Brick
+## Rokit Brick
 
 Drag-and-drop block coding programming using the mouse allows you to control a variety of drones, experiments, games and missions.
 
 ![Selection](./img/0015.png)
 
-* **Selection**: Connect PC and remote control with USB cable, run RokitBrick, select Coderon Mini from drone type and press SELECT button.
+* **Selection**: Connect PC and remote control with USB cable, run RokitBrick, select CoDrone Mini from drone type and press SELECT button.
 
 ![Connection & Play](./img/0016.png)
 
-* **Connection & Play**: Tap the “Coderon Mini” tab in the block group at the top left and tap Connect to drones directly below to connect ports and move the desired blocks to the central script to control various drones in real time. can.
+* **Connection & Play**: Tap the “CoDrone Mini” tab in the block group at the top left and tap Connect to drones directly below to connect ports and move the desired blocks to the central script to control various drones in real time. can.
 
-> [Download the Rocket Brick PDF Manual](https://github.com/EBWon/manual_en/raw/master/codronemini/pdf/rokit.pdf)
+> [Download the Rokit Brick PDF Manual](https://github.com/EBWon/manual_en/raw/master/codronemini/pdf/rokit.pdf)
