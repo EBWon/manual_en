@@ -88,11 +88,11 @@ You can monitor the drone's various sensor values ​​and drone status through
 
 Drag-and-drop block coding programming using the mouse allows you to control a variety of drones, experiments, games and missions.
 
-![Selection](./img/0015.png)
+![Selection](./img/0015_.png)
 
 * **Selection**: Connect PC and remote control with USB cable, run RokitBrick, select CoDrone Mini from drone type and press SELECT button.
 
-![Connection & Play](./img/0016.png)
+![Connection & Play](./img/0016_.png)
 
 * **Connection & Play**: Tap the “CoDrone Mini” tab in the block group at the top left and tap Connect to drones directly below to connect ports and move the desired blocks to the central script to control various drones in real time. can.
 
