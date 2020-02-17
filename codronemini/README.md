@@ -20,7 +20,7 @@ Drones and remote controls allow for a variety of controls and maintenance.
   
 
 # Specifications
-![CoDrone mini spec](./img/0004.png)
+![CoDrone mini spec](./img/0004_.png)
 
 
 ## actual configuration
@@ -46,7 +46,8 @@ Drone flight using joystick can be controlled anywhere.
 
 * **Start**: Press the button on the right side for about 4 seconds, the drone will take off and hover automatically
 
-![Flying](./img/0009.png)
+![Flying](./img/0009_.png)
+![Flying](./img/0009_1.png)
 
 * **Flying**: Use the left joystick to move up/down/left/right and use the right joystick to move forward/backward/left/right.
 
@@ -65,7 +66,7 @@ Virtual drone flying with joystick allows you to control and practice drones on 
 
 * **Connection**: Connect the PC and the remote control with a USB cable, run the drone simulator, connect the port from the ConnectC button on the upper right side and press the Training button to go to the virtual drone control screen.
 
-![Virtual Flight](./img/0012.png)
+![Virtual Flight](./img/0012_.png)
 
 * **Virtual Flight**: Control the drones on your screen with a wired remote like you would control a real drone.
 
